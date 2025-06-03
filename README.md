@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/proxima911](https://github.com/proxima911)
 
-- 📝 I regularly write articles on [The back of cereal boxes](The back of cereal boxes)
+- 📝 I regularly write articles on The back of cereal boxes (The back of cereal boxes)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
