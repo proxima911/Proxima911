@@ -1,4 +1,4 @@
-# 💫 About Me: New to the world of cybersecurity and loving it!
+#  About Me: New to the world of cybersecurity and loving it!
 🔭 I’m currently working on<br>https://github.com/proxima911/AZURE-SOC-HONEYPOT-LAB.git<br>https://github.com/proxima911/cloud-cybersecurity-Lab.git<br>https://github.com/proxima911/Threat-Detection-Lab.git
 
 
